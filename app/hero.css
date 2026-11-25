@@ -19,14 +19,6 @@
   :root:not([data-theme="light"]) {
     --bg: #1a1a18;
     --ink: #eeeeea;
-    --detail-text: #f4f2ec;
-    --detail-muted: rgba(244, 242, 236, 0.68);
-    --detail-surface: rgba(34, 33, 30, 0.55);
-    --detail-surface-strong: rgba(44, 42, 38, 0.78);
-    --detail-border: rgba(255, 255, 255, 0.16);
-    --detail-scrim: rgba(0, 0, 0, 0.58);
-    --detail-cta-bg: #f4f2ec;
-    --detail-cta-text: #1b1b19;
   }
 }
 
